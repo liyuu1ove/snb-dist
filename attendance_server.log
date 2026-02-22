@@ -1,0 +1,50 @@
+2026-02-21 22:51:27 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 22:51:31 [CRITICAL] [MainThread] 连接池初始化失败: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2026-02-21 22:54:29 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 22:54:29 [CRITICAL] [MainThread] 连接池初始化失败: 1044 (42000): Access denied for user 'adminsnb'@'%' to database 'attendance_db'
+2026-02-21 22:54:36 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 22:54:36 [CRITICAL] [MainThread] 连接池初始化失败: 1044 (42000): Access denied for user 'adminsnb'@'%' to database 'attendance_db'
+2026-02-21 22:54:38 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 22:54:38 [CRITICAL] [MainThread] 连接池初始化失败: 1044 (42000): Access denied for user 'adminsnb'@'%' to database 'attendance_db'
+2026-02-21 22:54:40 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 22:54:40 [CRITICAL] [MainThread] 连接池初始化失败: 1044 (42000): Access denied for user 'adminsnb'@'%' to database 'attendance_db'
+2026-02-21 22:55:25 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 22:55:26 [INFO] [MainThread] 数据库连接池初始化成功。
+2026-02-21 22:55:29 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 22:55:30 [INFO] [MainThread] 数据库连接池初始化成功。
+2026-02-21 22:56:07 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 22:56:08 [INFO] [MainThread] 数据库连接池初始化成功。
+2026-02-21 22:56:08 [INFO] [MainThread] 🚀 服务启动于 localhost:50051 | Workers: 10
+2026-02-21 22:56:08 [INFO] [MainThread] 💾 连接数据库: 10.107.17.110
+2026-02-21 22:56:18 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375538 @ Device: 114.114.114.114
+2026-02-21 22:56:18 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375538
+2026-02-21 22:56:21 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 22:56:21 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 22:56:25 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 22:56:25 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 22:56:49 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 22:56:49 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 22:56:53 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 22:56:53 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 22:56:58 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 22:56:58 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 22:57:03 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 22:57:03 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 23:03:06 [INFO] [MainThread] 正在初始化数据库连接池 (Size: 10)...
+2026-02-21 23:03:06 [INFO] [MainThread] 数据库连接池初始化成功。
+2026-02-21 23:03:06 [INFO] [MainThread] 🚀 服务启动于 localhost:50051 | Workers: 10
+2026-02-21 23:03:06 [INFO] [MainThread] 💾 连接数据库: 10.107.17.110
+2026-02-21 23:03:17 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375538 @ Device: 114.114.114.114
+2026-02-21 23:03:17 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375538
+2026-02-21 23:03:23 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 23:03:23 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 23:03:28 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 23:03:28 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 23:03:38 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375358 @ Device: 114.114.114.114
+2026-02-21 23:03:38 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375358
+2026-02-21 23:03:39 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375542 @ Device: 114.114.114.114
+2026-02-21 23:03:39 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375542
+2026-02-21 23:03:45 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375538 @ Device: 114.114.114.114
+2026-02-21 23:03:45 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375538
+2026-02-21 23:03:52 [INFO] [ThreadPoolExecutor-0_0] 收到请求 -> Card: 0053375358 @ Device: 114.114.114.114
+2026-02-21 23:03:52 [INFO] [ThreadPoolExecutor-0_0] ✅ 签到成功: Card 0053375358
